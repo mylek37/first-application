@@ -1,0 +1,14 @@
+
+.nhien {
+    width: 300px;
+    height: 500px;
+}
+.name { 
+    color: red;
+    margin-left: 30px;
+        
+}
+.content {
+    width: 1000px;
+    background-color: linen;
+}
