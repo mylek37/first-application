@@ -1,14 +1,37 @@
-.header { color: white;
-            background: black;
-            text-align: center;
-            height: 50px;}
-.header1 {  color:white;
-            background: gray;
-            margin-left: 20px;
-            height: 10px;}
-.body { margin-top: 20px;
-        margin-bottom: 20px;
-        margin-left: 50px;
-        margin-right: 50px;
-        background: gray;
-        color: black;}
+.header { 
+  color: white;
+  background: black;
+  text-align: center;
+  height: 50px;
+
+}
+.header1 {
+  color:white;
+  background: gray;
+  margin-left: 20px;
+  height: 10px;
+}
+.body { 
+  /* margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 50px;
+  margin-right: 50px; */
+  background: gray;
+  color: black;
+  /* Huy added */
+  width: 100%;
+  height: 50px;
+  display: block
+}
+/* Huy added */
+.body1, .body2 {
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+.body1 {
+  background: #224451;
+}
+.body2 {
+  background: #600211;
+}
