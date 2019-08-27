@@ -1,15 +1,13 @@
-.header { 
+.header, .footer { 
   color: white;
   background: black;
   text-align: center;
-  height: 50px;
-
-}
-.header1 {
+  height: 50px;}
+.footer { font-size: 40px}
+.header2 {
   color:white;
   background: gray;
-  margin-left: 20px;
-  height: 10px;
+  padding-left: 50px;
 }
 .body { 
   /* margin-top: 20px;
@@ -21,7 +19,7 @@
   /* Huy added */
   width: 100%;
   height: 50px;
-  display: block
+  display: block;
 }
 /* Huy added */
 .body1, .body2 {
