@@ -1,0 +1,129 @@
+<!-- Form Attributes -->
+<form method="post" action="google.com" id="register-form" name="registerForm" target="_blank">
+
+</form>
+
+
+<!--  -->
+<h3>1. Radio input In Form - tag "input" type RADIO</h3>
+<form>
+  <input type="radio" name="gender" value="male" checked> Male<br>
+  <input type="radio" name="gender" value="female"> Female<br>
+  <input type="radio" name="gender" value="other"> Other
+</form>
+
+<!--  -->
+<h3>2. Text Input in Form - tag "input" type TEXT</h3>
+<form action="/action_page.php">
+  <fieldset>
+    <legend>Student information:</legend>
+    First name:<br>
+    <input type="text" name="firstname" value="Mickey">
+    
+    <br>
+    Last name:<br>
+    <input type="text" name="lastname" value="Mouse">
+    
+    <br><br>
+    <input type="submit" value="Submit">
+  </fieldset>
+</form>
+
+
+<!--  -->
+<h3>3. Empty Text Input in Form - tag "input" type SUBMIT</h3>
+<form action="/action_page.php">
+  <fieldset>
+    First name:<br>
+    <input type="text" name="firstname" value="">
+    
+    <br><br>
+    <input type="submit" value="Submit">
+  </fieldset>
+</form>
+
+<!--  -->
+<h3>4. Set placeholder for Text Input in Form - tag "input"</h3>
+<form action="/action_page.php">
+  <fieldset>
+    First name:<br>
+    <input type="text" name="firstname" placeholder="Name">
+    
+    <br><br>
+    <input type="submit" value="Submit">
+  </fieldset>
+</form>
+
+<!--  -->
+<h3>5. Text Input in Form - tag "input" type PASSWORD</h3>
+<form action="/action_page.php">
+  <fieldset>
+    First name:<br>
+    <input type="text" name="name" placeholder="Name">
+    
+    <br><br>
+    First name:<br>
+    <input type="password" name="password" placeholder="Password">
+    <br><br>
+    <input type="submit" value="Submit">
+  </fieldset>
+</form>
+
+
+<!--  -->
+<h3>5. Button in Form - tag "input", tag "button"</h3>
+<form action="/action_page.php">
+  <fieldset>
+    <br><br>
+    <label>Input Submit</label>
+    <input type="submit" value="Submit">
+    
+    <br><br>
+    <label>Button type Submit</label>
+    <button type="submit" value="">Submit</button>
+    
+    <br><br>
+    <label>Button type button</label>
+    <button type="button" value="" >Click me!</button>
+  </fieldset>
+</form>
+
+<!-- Select Options In Form -->
+<h3>6. Select options in Form - tag "select", "option"</h3>
+<form action="/action_page.php">
+  <label>Select your car:</label>
+  <select name="cars">
+    <option value="honda">Honda</option>
+    <option value="toyota">Toyota</option>
+    <option value="Mercedes">Mercedes</option>
+    <option value="audi">Audi</option>
+  </select>
+</form>
+<h3>7. Select options in Form - Auto selected - tag "select", "option"</h3>
+<form action="/action_page.php">
+  <label>Select your car:</label>
+  <select name="cars">
+    <option value="honda">Honda</option>
+    <option value="toyota">Toyota</option>
+    <option value="Mercedes" selected>Mercedes</option>
+    <option value="audi">Audi</option>
+  </select>
+</form>
+<h3>8. Select options in Form - Multiple Selections - tag "select", "option"  </h3>
+<form action="/action_page.php">
+  <label>Select your car:</label>
+  <select name="cars" multiple size="4">
+    <option value="honda">Honda</option>
+    <option value="toyota">Toyota</option>
+    <option value="Mercedes" selected>Mercedes</option>
+    <option value="audi">Audi</option>
+  </select>
+</form>
+
+<!-- Text Area -->
+<h3>9. Textarea in Form - Tag "textarea"</h3>
+<form action="/action_page.php">
+  <textarea name="message" rows="10" cols="30">
+    Today is Saturday, Nhien does not have to go to school.
+  </textarea>
+</form>
