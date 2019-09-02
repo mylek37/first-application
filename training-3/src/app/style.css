@@ -1,0 +1,8 @@
+.Name , .Password {
+    float: left;
+    width: 45%;
+    height: 100%;   }
+.City , .State , .Zip {
+    float: left;
+    width: 30%;
+    height: 100;}
