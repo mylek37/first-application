@@ -1,38 +1,65 @@
-<form id="form2" name="loginform"></form>
-<form action="/action_page.php">
-    <head>
-        <link href="style.css" rel="stylesheet" type="text/css"/>
-    </head>
-    <fieldset>
-        <div class="Name">
-        Email <br>
-        <input type="text" name="Email" placeholder="Email">
-    <br> </div>
-         <div class="Password">
-        Password <br>
-        <input type="text" name="Password" placeholder="Password"> <br>
-    </div>
-        Address <br>
-        <input type="text" name="Adress" placeholder="1234 Main st"> <br>
-        Adress 2 <br>
-        <input type="text" name="Adress 2" placeholder="Apartment, studio, or floor"> <br>
-        <div class="City">
-        City <br>
-        <input type="text" name="City" placeholder=""> <br>
-    </div>
-    <div class="State">
-        <label>State</label>
-        <select >
-        <option value="1" selected>1</option>
-        <option value="2">2</option>
-        <option value="3">3</option>
-    </select>
-</div>
-<div class="Zip">
-        Zip <br>
-        <input type="text" name="Zip" placeholder=""> <br>
-    </div>
-        <input type="checkbox" name="check" value="">check me out
-        <input type="button" name="Sign in" value="Sign in">
-</fieldset>
-</form>
+<html>
+
+<head>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+    <form action="/action_page.php">
+        <section>
+            <div class="group">
+                <div class="email">
+                    <label>Email</label><br>
+                    <input type="text" name="email" placeholder="Email">
+                    <br> 
+                </div>
+                
+                <div class="password">
+                    <label>Password</label><br>
+                    <input type="text" name="password" placeholder="Password"> <br>
+                </div>
+            </div>
+
+            <div class="group">
+                <div class="address1">
+                    <label>Address</label><br>
+                    <input type="text" name="Adress" placeholder="1234 Main st"> <br>
+                </div>
+            </div>
+            <div class="group">
+                <div class="address2">
+                    <label>Address 2</label><br>
+                    <input type="text" name="Adress 2" placeholder="Apartment, studio, or floor"> <br>
+                </div>
+            </div>
+            <div class="group">
+                <div class="city">
+                    <label>City</label><br>
+                    <input type="text" name="City" placeholder=""> <br>
+                </div>
+
+                <div class="state">
+                    <label>State</label>
+                    <select>
+                        <option value="1" selected>1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                    </select>
+                </div>
+
+                <div class="zip">
+                    <label>Zip</label><br>
+                    <input type="text" name="zip" placeholder=""> <br>
+                </div>
+            </div>
+            <div class="group">
+                <input type="checkbox" name="check" value=""><span>Check me out</span>
+            </div>
+            <div class="group">
+                <input type="button" name="Sign in" value="Sign in">
+            </div>
+        </section>
+    </form>
+</body>
+
+</html>
