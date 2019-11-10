@@ -29,3 +29,13 @@ var turnOffTheLight = () => {
         var imageSrc = 'pic_bulboff.gif';
         imageElement.src = imageSrc;
 }
+let isOn = false;
+var switchTheLight = () => {
+        if (isOn == false) {
+                imageElement.src = 'pic_bulbon.gif';
+                isOn = true;
+        } else {
+                imageElement.src = 'pic_bulboff.gif';
+                isOn = false;
+        }
+}
