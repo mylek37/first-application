@@ -7,6 +7,7 @@
         var functionName = () => {
             // content here!
         };
+        
     * Samples: 
     var calculateAge = (motherAge, childAge) => {
         var totalAge = motherAge + childAge;
