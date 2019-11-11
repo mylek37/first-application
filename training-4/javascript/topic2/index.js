@@ -19,7 +19,7 @@ var getAgeMortherAndAgeChild = (motherAge, childAge) => {
 //             var mumAge = 26;
 //             var childAge = 2;
 //             getAgeMotherAndChildren(mumAge, childAge);
-var imageElement = document.getElementById('myImage');
+const imageElement = document.getElementById('myImage');
 var turnOnTheLight = () => {
         var imageSrc = 'pic_bulbon.gif'; 
         imageElement.src = imageSrc;
