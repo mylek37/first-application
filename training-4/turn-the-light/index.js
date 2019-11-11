@@ -39,3 +39,15 @@ var switchTheLight = () => {
                 isOn = false;
         }
 }
+var switchTheLightUpdate = (isOn) => {
+        let imageSrc = '';
+        const imageElement = document.getElementById('myImage');
+        if (isOn == false) {
+                imageSrc = 'pic_bulboff.gif';
+                console.log('is On: ',isOn);
+        } else {
+                imageSrc = 'pic_bulbon.gif';
+                console.log('is On: ',isOn)
+        }
+        imageElement.src = imageSrc;
+}
