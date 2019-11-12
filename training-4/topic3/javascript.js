@@ -4,6 +4,6 @@ var javascriptIntroduction = () => {
     demoElement.innerHTML = demoInner;
 }
 var changeStyleHtml = () => {
-        var demoFrontsize = '35px';
-        demoElement.style.frontSize = demoFrontsize;
+        var demoFontsize = '35px';
+        demoElement.style.fontSize = demoFontsize;
 }
