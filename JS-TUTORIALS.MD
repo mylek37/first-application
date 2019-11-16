@@ -21,6 +21,7 @@
         => book.title // Thinking Big
             book.author // Domal Trump
             book.publishYear // 2000
+    
     * Type Array 
     - Structure: const a = [];
         + empty Array: []
@@ -40,7 +41,15 @@
             var firstObj = numberArr[0]; // firstObj = 1;
             numberArr.length = 5;
             numberArr[4];
-            
+    - Add an Object into An Array
+    Ex: let a = ['Le', 'Huy'];
+        a.push('Nhien') => So a will be: ['Le', 'Huy', 'Nhien'];
+        or a[2] = 'Nhien' => a will also be ['Le', 'Huy', 'Nhien'];
+    - Get Object Details in an Array
+    Ex: let b = [{ title: 'Happy New Year', year: 2010 }, { title: 'Happy Birdthday', year: 2020 }]
+        const data = b[0] => // b = {title: 'Happy New Year', year: 2010 }
+                            // b.year = 2010
+                            // b.title = 'Happy New Year'
 # 2. JS Functions
     * Structure:
         var functionName = () => {
