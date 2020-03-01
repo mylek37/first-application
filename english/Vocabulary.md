@@ -1,73 +1,61 @@
-# 3. stink
-verb [ I ]   informal
-UK  /stɪŋk/ US  /stɪŋk/
-stank or US and Australian English also stunk | stunk
-stink verb [I] (SMELL)
+# 4.counterfeit adjective UK  /ˈkaʊn.tə.fɪt/ US  /ˈkaʊn.t̬ɚ.fɪt/ <gia mao, lam gia >
+1. counterfeit adjective UK  /ˈkaʊn.tə.fɪt/
+made to look like the original of something, usually for dishonest or illegal purposes:
+- counterfeit jewellery/passports/coins
+2. counterfeit noun [ C ] <hang gia, hang nhai>
+something that is made to look like the original of something else, usually for dishonest or illegal purposes:<dishonest: /dɪˈsɒn.ɪst/ khong thanh that, sai trai> <illegal: /ɪˈliː.ɡəl/ pham phap>
+- This watch may be a counterfeit, but it looks just like the original.
+- Inspect the tickets carefully for possible counterfeits.<inspect: /ɪnˈspekt/ xem xet, kiem tra, thanh tra>
+- Two women and a man have been convicted of counterfeiting $100 bills.<convicted: /kənˈvɪk.tɪd/ bi ket an>
+- We have made it significantly more difficult for them to counterfeit this document.<significantly: /sɪɡˈnɪf.ɪ.kənt.li/ dang ke >
+- The bank said this $100 bill was a counterfeit.
+3. counterfeit adjective [ not gradable ]
+copied exactly in order to make someone believe that the copy is the original:
+- A lot of brand-name merchandise sold on the streets is counterfeit.<merchandise:  /ˈmɜː.tʃən.daɪs/ thuong mai, hang hoa> <brand-name: hang hieu, co nhan hieu>
+4. counterfeit verb [ T ] US  /ˈkɑʊn·tərˌfɪt/ <lam gia, gia mao>
+They were accused of counterfeiting credit cards and selling them.<accused: /əˈkjuːzd/ bi cao buoc, dinh toi>
+5. counterfeit adjective 
+counterfeit money, goods, etc. are illegal copies of the real thing, made to deceive people: <deceive:  /dɪˈsiːv/ lua gat, lua dao>
+counterfeit bills/notes/software
+Counterfeit card fraud is a growing problem.<fraud: /frɔd/ toi pham, ke lua dao>
+At least 41% of the drugs in circulation were thought to be counterfeit.<dregs: /drʌɡ/ thuoc> <circulation:  /ˌsɜː.kjəˈleɪ.ʃən/ su luu thong, su luu hanh>
+6. counterfeit
+verb [ T ]
+UK  /ˈkaʊntəfɪt/ US 
  
+to make illegal copies of something such as bank notes, DVDs, or official documents:
+Criminals can empty bank accounts by accessing consumer PIN numbers and counterfeiting cards.
+ 
+counterfeit
+noun [ C ]
+UK  /ˈkaʊntəfɪt/ US 
+ 
+an illegal copy of something such as a bank note, DVD, or official document:
+Many of the watches sold on the market are counterfeits.
+(Định nghĩa của counterfeit từ Từ điển Cambridge Tiếng Anh Doanh nghiệp © Cambridge University Press)
+CÁC VÍ DỤ của counterfeit
+counterfeit
+Does such self-coinage, in the guise of coinage of the self, make them counterfeit?
+# 3. stink verb [ I ]   informal UK  /stɪŋk/ US  /stɪŋk/ stank or US and Australian English also stunk | stunk: boc mui, hoi thoi,kho ua, toi te, bat luong 
+1. stink verb [I] (SMELL)<boc mui, hoi thoi>
 to smell very unpleasant:
-Your feet stink!
-The morning after the party, the whole house stank of beer and cigarettes.
-He hadn't showered for over a week and stank to high heaven (= a lot).
-The woman next to me sprayed on some perfume and stank out the whole place (= filled it with an unpleasant smell).
- Thesaurus: synonyms and related words
-Smells & smelling
-anosmicaromaticbeerybergamotfragrancedfrowstyfunkylemonyputridreekripescentscentedscratch-and-sniffsniffsniff sth/sb outstinkytonka beanunscentedwhiffySee more results »
- 
-Want to learn more?
-
-Improve your vocabulary with English Vocabulary in Use from Cambridge.
-Learn the words you need to communicate with confidence.
-
-stink verb [I] (BE BAD)
- 
+- Your feet stink!
+- The morning after the party, the whole house stank of beer and cigarettes.
+- He hadn't showered for over a week and stank to high heaven (= a lot).
+The woman next to me sprayed on some perfume and stank out the whole place (= filled it with an unpleasant smell).<perfume: nuoc hoa><spray:xit>
+2. stink verb [I] (BE BAD)<kho ua, toi te, bat luong>
 to be extremely bad or unpleasant:
-I think her whole attitude stinks.
-His acting stinks but he looks good, so he's offered lots of movie roles.
- Thesaurus: synonyms and related words
- 
-stink
-noun [ C usually singular ]   informal
-UK  /stɪŋk/ US  /stɪŋk/
- 
+- I think her whole attitude stinks.
+- His acting stinks but he looks good, so he's offered lots of movie roles.
+- The music scene here stinks.<scene noun /siːn/ :khung canh>
+3. stink noun [ C usually singular ]: <mui hoi thoi>
 a strong unpleasant smell:
-The stink of rotting seaweed was strong along the seashore.
- Thesaurus: synonyms and related words
-Idioms
-cause a stinkcreate/kick up/raise a stinklike stink
-(Definition of stink from the Cambridge Advanced Learner's Dictionary & Thesaurus © Cambridge University Press)
-stink | AMERICAN DICTIONARY
-stink
-verb [ I ]   infml
-US  /stɪŋk/
-past tense stank US/stæŋk/ stunk US/stʌŋk/ | past participle stunk US/stʌŋk/
-stink verb [I] (SMELL)
- 
-to smell very unpleasant:
-[ I ] Your feet stink.
-stink verb [I] (BE BAD)
- 
-to be extremely bad or unpleasant:
-The music scene here stinks.
-Phrasal verb
-stink up something
- 
-stink
-noun
-US  /stɪŋk/
-stink noun (BAD REACTION)
- 
-[ U ] infml
+- The stink of rotting seaweed was strong along the seashore.<seashore: /ˈsiː.ʃɔːr/ bo bien><rot: /rɒt/ su muc nat, muc nat, thoi rua><seaweed:  /ˈsiː.wiːd/ rong bien>
+- I can’t stand the stink of rotten meat.
+4. stink noun US  /stɪŋk/
+stink noun (BAD REACTION): <phan ung tieu cuc, rac roi>
 a negative reaction from a group of people or from the public:
-City employees are raising a stink over the plan.
-stink noun (BAD SMELL)
- 
-[ C ]
-a very unpleasant smell:
-I can’t stand the stink of rotten meat.
-(Definition of stink from the Cambridge Academic Content Dictionary © Cambridge University Press)
-EXAMPLES of stink
-stink
-The risk-reward of methodology stinks.
+- City employees are raising a stink over the plan.
 # 2. fight verb noun UK  /faɪt/ US  /faɪt/ fought | fought <verb: danh nhau, chien dau, tranh cai, noun: cuoc danh snhau, su tranh cai, suc chien dau>
 1. fight verb <danh nhau, danh>
 to use physical force to try to defeat another person or group of people:<physical:adj dung luc, force: noun luc >
