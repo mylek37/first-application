@@ -1,41 +1,130 @@
+# 7. stereotype
+# 6. claim verd 
+1. claim verb UK  /kleɪm/ US  /kleɪm/
+claim verb (SAY): <tuyen bo, noi rang, cho rang>
+to say that something is true or is a fact, although you cannot prove it and other people might not believe it:
+ex: - [ + (that) ] The company claims (that) it is not responsible for the pollution in the river.<responsible: a /rɪˈspɑːn.sə.bəl/ chiue trach nhiem>
+- [ + to infinitive ] He claims to have met the president, but I don't believe him.
+- All parties have claimed success in yesterday's elections. <election: n  /iˈlek.ʃən/ cuoc bau cu>
+- Some people still claim that there is no firm evidence linking smoking with lung cancer.<evidence: n /ˈev.ə.dəns/ bang chung ><firm: a /fɝːm/ chac chan, ben vung><lung: n /lʌŋ/ phoi><cancer: n /ˈkæn.sɚ/ benh ung thu>
+- They claim to be the biggest company in the world, which is true if you include their subsidiaries.<subsidiary: n /səbˈsɪd.i.er.i/ chi nhanh cong ty, cong ty con>
+- The study claims that British advertising stereotypes women.<stereotypes: v /ˈster.i.ə.taɪp/ cham biem, dinh kien>
+- It is claimed that the officers tortured a man to death in 1983 in a city police station.
+- [ + (that) clause ] Ervin claims (that) he is bankrupt.
+2. claim verb (DEMAND)
+B2 [ T ]
+to ask for something of value because you think it belongs to you or because you think you have a right to it:
+- The police said that if no one claims the watch, you can keep it.
+- When King Richard III died, Henry VII claimed the English throne.
+B2 [ I or T ]
+to make a written demand for money from a government or organization because you think you have a right to it:
+- The number of people claiming unemployment benefits has risen sharply this month.
+- Don't forget to claim (for) your travelling expenses after the interview.
+- UK When my bike was stolen, I claimed on the insurance and got £150 back.
+- UK If the shop won't give me a replacement TV, I'll claim my money back.
+3. claim noun [ C ] (STATEMENT)
+C1
+a statement that something is true or is a fact, although other people might not believe it:
+- He said the police assaulted him while he was in custody, a claim that the police deny.
+- [ + that ] The government's claim that it would reduce taxes proved false.
+- Can you give any evidence to support your claim?
+- He made wild claims about being able to cure cancer.
+4. claim noun [C] (DEMAND)
+B2
+a written request asking an organization to pay you an amount of money that you believe they owe you:
+- After her house was burgled, she made a claim on her insurance.
+- Please submit your claim for travelling expenses to the accounts department.
+a right to have something or get something from someone:
+- She has no rightful claim to the title.
+- Our neighbours have no claim to (= cannot say that they own) that strip of land between our houses.
+- My ex-wife has no claims on me (= has no right to any of my money).
+5. claim verb [T] (REQUEST)
+to demand something of value because you believe it belongs to you or you have a right to it:
+- If no one claims the money, I can keep it.
+If a storm, crime, or other violence claims someone’s life, the person was killed suddenly as a result of that event:
+- The earthquake claimed hundreds of lives.
+6. claim noun [ C ] (REQUEST)
+a written request to an organization to pay you a sum of money which you believe it owes you:
+- After the storm, dozens of claims were filed to collect crop insurance.
+A claim is also a statement saying that you have a right to something:
+-They asserted their claim to citizenship.
+7. claim noun [ C ]
+INSURANCE
+a request to an insurance company for payment relating to an accident, illness, damage to property, etc.:
+- pay/refuse/settle a claim An insurance adjuster will work with the injured party to settle the claim.
+- file/make/submit a claim Do not submit a claim if the doctor or hospital is also filing a claim for the same service.
+LAW
+a request to a court, government department, or company for something such as money or property that you believe you have a legal right to:
+a claim for sth The Court of Appeal upheld his claim for damages for wrongful dismissal.
+bring/file a claim against sb/sth He is now bringing an unfair dismissal claim against the company.
+a disability/unemployment/pension claim
+LAW
+a legal right to own something such as a property, business, or title:
+have a claim on/to sth If you are joint owners, you have a claim on at least half the house.
+a legitimate/rightful/valid claim
+a statement of something you believe is true, although you have no proof:
+The court rejected his claims that he was denied a promotion due to discrimination.
+8. claim verb [ T ]
+to state that something is true, although you may not be able to prove it:
+Union representatives claim that workers were forced to work overtime without pay. 
+INSURANCE
+to officially request that an insurance company pay for costs relating to an accident, damage to property, etc.
+to request payment for money you are owed by a government department or company:
+claim benefits/tax relief/income support The self employed may claim income tax relief as an allowance in their income tax assessment.
+LAW
+to state that you have a legal right to own something such as a property, business, or title:
+If there are no relatives to claim the estate, the deceased's property will be reverted to the state.
+ claim damages
+LAW
+to officially request payment from someone who is responsible for an injury, loss, etc.:
+A breach of warranty will give the purchaser the right to claim damages from the vendor.
+# 5. Merchandise noun, verb, /ˈmɝː.tʃən.daɪz/
+1. merchandise <noun [ U ] /ˈmɜː.tʃən.daɪs/ hang hoa, san pham>
+goods that are bought and sold:
+- Shoppers complained about poor quality merchandise and high prices.
+- Japan exported $117 billion in merchandise to the US in 1999.
+- This store has a wide selection of merchandise for sale.
+2. merchandise <verb [ T ]   BUSINESS   US specialized: buon ban>
+to encourage the sale of goods by advertising them or by making certain that they are noticed:<encourage: /ɪnˈkʌr.ɪdʒ/ khuyen khich>
+- She had to merchandise the new product line.
+3. merchandise <noun [ U ]
+goods that are offered for sale, especially in a store:
+- While the shop may look exclusive, the merchandise is not.<exclusive:  /ɪkˈskluː.sɪv/ doc quyen>
+4. MARKETING
+→  merchandising :
+Shaw won the highly lucrative rights to sell Elvis merchandise in the UK and Europe in 1999.<lucrative: /ˈluː.krə.tɪv/ co lai, sinh loi>
+5. merchandise <verb [ T ]   MARKETING
+to increase sales of goods by making people more aware of them through advertising, special displays or events, etc.:
+- The way in which you merchandise what you have in store in terms of display is pretty important.
+to produce and sell products connected with a popular film, event, famous person, etc.:
+- The company's move to license and merchandise its popular TV characters has great potential for growth.
 # 4.counterfeit adjective UK  /ˈkaʊn.tə.fɪt/ US  /ˈkaʊn.t̬ɚ.fɪt/ <gia mao, lam gia >
-1. counterfeit adjective UK  /ˈkaʊn.tə.fɪt/
+1. counterfeit <adjective UK  /ˈkaʊn.tə.fɪt/
 made to look like the original of something, usually for dishonest or illegal purposes:
 - counterfeit jewellery/passports/coins
-2. counterfeit noun [ C ] <hang gia, hang nhai>
+2. counterfeit <noun [ C ] <hang gia, hang nhai>
 something that is made to look like the original of something else, usually for dishonest or illegal purposes:<dishonest: /dɪˈsɒn.ɪst/ khong thanh that, sai trai> <illegal: /ɪˈliː.ɡəl/ pham phap>
 - This watch may be a counterfeit, but it looks just like the original.
 - Inspect the tickets carefully for possible counterfeits.<inspect: /ɪnˈspekt/ xem xet, kiem tra, thanh tra>
 - Two women and a man have been convicted of counterfeiting $100 bills.<convicted: /kənˈvɪk.tɪd/ bi ket an>
 - We have made it significantly more difficult for them to counterfeit this document.<significantly: /sɪɡˈnɪf.ɪ.kənt.li/ dang ke >
 - The bank said this $100 bill was a counterfeit.
-3. counterfeit adjective [ not gradable ]
+3. counterfeit <djective [ not gradable ]
 copied exactly in order to make someone believe that the copy is the original:
 - A lot of brand-name merchandise sold on the streets is counterfeit.<merchandise:  /ˈmɜː.tʃən.daɪs/ thuong mai, hang hoa> <brand-name: hang hieu, co nhan hieu>
-4. counterfeit verb [ T ] US  /ˈkɑʊn·tərˌfɪt/ <lam gia, gia mao>
+4. counterfeit <verb [ T ] US  /ˈkɑʊn·tərˌfɪt/ <lam gia, gia mao>
 They were accused of counterfeiting credit cards and selling them.<accused: /əˈkjuːzd/ bi cao buoc, dinh toi>
-5. counterfeit adjective 
+5. counterfeit <adjective 
 counterfeit money, goods, etc. are illegal copies of the real thing, made to deceive people: <deceive:  /dɪˈsiːv/ lua gat, lua dao>
 counterfeit bills/notes/software
 Counterfeit card fraud is a growing problem.<fraud: /frɔd/ toi pham, ke lua dao>
 At least 41% of the drugs in circulation were thought to be counterfeit.<dregs: /drʌɡ/ thuoc> <circulation:  /ˌsɜː.kjəˈleɪ.ʃən/ su luu thong, su luu hanh>
-6. counterfeit
-verb [ T ]
-UK  /ˈkaʊntəfɪt/ US 
- 
+6. counterfeit <verb [ T ] /ˈkaʊntəfɪt/ 
 to make illegal copies of something such as bank notes, DVDs, or official documents:
-Criminals can empty bank accounts by accessing consumer PIN numbers and counterfeiting cards.
- 
-counterfeit
-noun [ C ]
-UK  /ˈkaʊntəfɪt/ US 
- 
+- Criminals can empty bank accounts by accessing consumer PIN numbers and counterfeiting cards.<Criminals:  /ˈkrɪm.ɪ.nəl nhung ten toi pham>
+7. counterfeit <noun [ C ] /ˈkaʊntəfɪt/ 
 an illegal copy of something such as a bank note, DVD, or official document:
-Many of the watches sold on the market are counterfeits.
-(Định nghĩa của counterfeit từ Từ điển Cambridge Tiếng Anh Doanh nghiệp © Cambridge University Press)
-CÁC VÍ DỤ của counterfeit
-counterfeit
-Does such self-coinage, in the guise of coinage of the self, make them counterfeit?
+- Many of the watches sold on the market are counterfeits.
 # 3. stink verb [ I ]   informal UK  /stɪŋk/ US  /stɪŋk/ stank or US and Australian English also stunk | stunk: boc mui, hoi thoi,kho ua, toi te, bat luong 
 1. stink verb [I] (SMELL)<boc mui, hoi thoi>
 to smell very unpleasant:
@@ -73,7 +162,7 @@ Rebels have been fighting fierce battles with government forces.
 B2 [ I or T ]
 to use a lot of effort to defeat or achieve something, or to stop something happening:
 He fought the disease bravely for three years.
-We need the public's help in fighting crime.
+We need the public's help in fighting crime.<crime: /kraɪm/ toi pham>
 He fought against racism. <fight: verb chien dau> <against: adv chong lai> <racism: noun phan biet chung toc>
 Vitamin C is thought to help fight colds and flu.
 They had to fight hard for improvements to the road system.
